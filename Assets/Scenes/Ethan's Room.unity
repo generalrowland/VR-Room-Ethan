@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.1542263, g: 0.17558983, b: 0.1867621, a: 1}
+  m_IndirectSpecularColor: {r: 0.12746513, g: 0.13436463, b: 0.121389054, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3821,13 +3821,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 410087039}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.036492743, y: 0.144258, z: -0.0053236987, w: 0.9888527}
+  m_LocalRotation: {x: 0.41970426, y: -0.8907044, z: -0.07428535, w: 0.15803714}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 4.227, y: 16.6, z: 0}
+  m_LocalEulerAnglesHint: {x: 0.019, y: -159.886, z: -50.457}
 --- !u!114 &410087042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16016,7 +16016,8 @@ PrefabInstance:
       value: Speaker_RecordPlayer_Gray
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 6433137054408036653, guid: 210506ff450b7c448922566ff5280b49, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 210506ff450b7c448922566ff5280b49, type: 3}
