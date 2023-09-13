@@ -4242,7 +4242,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 2
   m_DistanceCalculationMode: 1
   m_SelectMode: 0
   m_FocusMode: 1
@@ -4817,8 +4817,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 481532141}
-  - component: {fileID: 481532143}
   - component: {fileID: 481532142}
+  - component: {fileID: 481532143}
   m_Layer: 0
   m_Name: BookSlot2
   m_TagString: Untagged
@@ -4856,7 +4856,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -5021,7 +5021,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 2
   m_DistanceCalculationMode: 1
   m_SelectMode: 0
   m_FocusMode: 1
@@ -18114,8 +18114,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1910007978}
-  - component: {fileID: 1910007980}
   - component: {fileID: 1910007979}
+  - component: {fileID: 1910007980}
   m_Layer: 0
   m_Name: BookSlot1
   m_TagString: Untagged
@@ -18153,7 +18153,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
